@@ -1,21 +1,10 @@
 # Security Policy
 
-## Supported Versions
+## 지원 버전
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+개인 프로젝트로, 별도 릴리스 버전 없이 `master` 브랜치의 최신 코드만 지원합니다.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+## 취약점 신고
 
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+보안 취약점은 공개 Issue로 올리지 말고 GitHub 저장소의 **Security → Report a vulnerability**(비공개 신고)로 알려주세요.
+확인 후 가능한 한 빨리 답변하고, 수정이 필요한 경우 `master`에 반영합니다.
